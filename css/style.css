@@ -1,1 +1,16 @@
 /* add CSS class and element and selectors here */
+body{
+  background-color: #C49AA4; 
+  font-size: 100%;
+}
+
+.Newclass{
+ font-family: Courier;
+ font-size:400%;
+ border:10px dotted #99B7A4;
+ }
+ 
+ .intro{
+   font-family: Comic Sans MS;
+   border-style: groove
+ }
